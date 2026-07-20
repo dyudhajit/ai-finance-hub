@@ -1,299 +1,240 @@
-# AI Finance Lab
+# 🚀 AI Finance Lab
 
-## Training the Next Generation of AI-Native Finance Professionals
+## Training the next generation of AI-enabled finance professionals
 
-Finance is entering a new era.
+Finance is changing.
 
-Artificial intelligence is changing how professionals research companies, analyse financial statements, build models, perform valuations, and communicate insights.
+Artificial Intelligence is transforming how professionals research companies, analyse financial statements, build models, automate workflows, and make decisions.
 
-The future finance professional will not be defined by their ability to use spreadsheets alone.
+But one thing remains unchanged:
 
-They will combine:
+**Great finance requires strong fundamentals, business judgment, and analytical thinking.**
 
-- Financial knowledge
-- Analytical thinking
-- Modelling skills
-- Technology fluency
-- Artificial intelligence
+AI Finance Lab exists to bridge the gap between:
 
-The AI Finance Lab is a practical learning environment designed to help finance professionals develop these capabilities.
-
----
-
-# What is the AI Finance Lab?
-
-The AI Finance Lab is a hands-on learning platform that combines:
-
-## Finance Fundamentals
-
-Understanding how businesses operate, how financial statements work, and how value is created.
-
-## Financial Modelling
-
-Building professional-grade financial models used in investment banking, corporate finance, and valuation.
-
-## Artificial Intelligence
-
-Using AI to improve research, analysis, modelling, and decision-making.
-
-## Practical Application
-
-Applying these skills to real companies and real business problems.
+📊 Finance expertise  
++
+🤖 Artificial Intelligence  
++
+🧠 Business decision-making
 
 ---
 
-# The AI Finance Lab Philosophy
+## What is AI Finance Lab?
 
-AI is not a replacement for finance professionals.
+AI Finance Lab is an open learning initiative designed to help students, analysts, and finance professionals understand how AI can enhance real-world finance workflows.
 
-AI is a force multiplier.
+The goal is not to replace finance professionals with technology.
 
-The highest-value finance professionals of the future will be those who can:
+The goal is to help finance professionals become more effective by combining:
 
-- Ask better questions
-- Analyse information faster
-- Validate outputs critically
-- Build better models
-- Make better decisions
-
-The goal of this lab is not to teach tools.
-
-The goal is to develop better finance professionals who know how to leverage AI.
+> Financial knowledge + AI capability
 
 ---
 
-# The Learning Journey
+## Learning Journey
 
-The AI Finance Lab follows the workflow of a real finance professional.
-
-Understand AI
-
-    ↓
-
-Understand Financial Statements
-
-    ↓
-
-Understand Financial Models
-
-    ↓
-
-Analyse a Real Business
-
-    ↓
-
-Build Professional Models
-
-    ↓
-
-Generate Investment Insights
-
+Follow a structured path from finance fundamentals to advanced AI applications.
 
 ---
 
-# Phase 1 — AI Fundamentals
+## 1. Finance Foundations
 
-Before using AI effectively, finance professionals need to understand how to work with AI.
+### Build the foundation of business understanding
 
-Topics include:
-
-- Prompt engineering
-- AI-assisted research
-- AI output validation
-- AI auditing
-- Workflow automation
-- Responsible AI usage
-
-The focus is on developing the judgement required to use AI effectively in finance.
-
----
-
-# Phase 2 — Accounting Fundamentals
-
-Financial analysis begins with understanding the language of business.
-
-Topics include:
-
-- Income Statement
-- Balance Sheet
-- Cash Flow Statement
-- Accounting relationships
-- Financial statement analysis
-
-Strong financial models are built on strong accounting foundations.
-
----
-
-# Phase 3 — Modelling Fundamentals
-
-Financial models are structured representations of businesses.
+Before using AI in finance, you need to understand how businesses work.
 
 Learn:
 
-- How financial models are designed
-- How assumptions drive outcomes
-- How statements link together
-- How analysts forecast business performance
-- How professional models are structured
+✅ Accounting fundamentals  
+✅ Financial statements  
+✅ Corporate finance concepts  
+✅ Business analysis  
+
+Start here:
+
+→ Accounting Fundamentals
+
+→ Financial Statements
 
 ---
 
-# Phase 4 — Valuation & Transaction Modelling
+## 2. Financial Modelling
 
-Learn the core modelling frameworks used by investment professionals.
+### Learn how finance professionals analyse businesses
 
-Topics include:
+Financial modelling is the language of corporate finance.
 
-## Financial Modelling
+Explore:
 
-Building integrated three-statement models.
+✅ Excel modelling principles  
+✅ Three-statement modelling  
+✅ Forecasting  
+✅ DCF valuation  
+✅ LBO analysis  
+✅ Merger modelling  
 
-## Discounted Cash Flow (DCF)
+Learn how professionals translate business assumptions into financial decisions.
 
-Understanding intrinsic valuation.
+Start modelling:
 
-## Leveraged Buyout (LBO)
+→ Modelling Fundamentals
 
-Understanding private equity returns analysis.
+→ DCF Mechanics
 
-## Mergers & Acquisitions (M&A)
+→ LBO Mechanics
 
-Understanding transaction modelling and deal analysis.
-
----
-
-# Learn Through Real-World Case Studies
-
-Finance is best learned through application.
-
-The AI Finance Lab uses real companies to demonstrate complete professional workflows.
-
-## Breville Group Case Study
-
-The first case study follows an end-to-end finance analysis process:
-
-
-Annual Report
-
-    ↓
-
-AI-Assisted Business Analysis
-
-    ↓
-
-Financial Statement Analysis
-
-    ↓
-
-Three Statement Model
-
-    ↓
-
-DCF Valuation
-
-    ↓
-
-LBO Analysis
-
-    ↓
-
-M&A Evaluation
-
-    ↓
-
-Investment Insights
-
-
-The objective is to demonstrate how AI can enhance the workflow of a modern finance professional.
+→ Merger Mechanics
 
 ---
 
-# What Makes the AI Finance Lab Different?
+## 3. AI Fundamentals for Finance
 
-Traditional finance education often separates:
+### Understand how AI changes finance workflows
 
-## Finance Theory
+AI is becoming an essential skill for modern finance professionals.
 
-Understanding concepts.
+Learn:
 
-## Excel Modelling
+✅ Generative AI fundamentals  
+✅ Prompt engineering  
+✅ AI-assisted analysis  
+✅ AI workflow design  
+✅ AI auditing concepts  
 
-Building spreadsheets.
+Explore:
 
-## Technology
+→ AI Fundamentals
 
-Learning tools.
-
-The AI Finance Lab brings these together.
-
-
-Finance Knowledge
-
-Professional Modelling
-
-Artificial Intelligence
-
-Human Judgement
-
-=
-
-AI-Native Finance Capability
-
+→ Prompt Engineering
 
 ---
 
-# Who Is This For?
+## 4. AI-Powered Finance Applications
 
-## Students
+### Move from learning to applying
 
-MBA students, finance students, and aspiring investment professionals.
+Discover practical examples of AI in finance:
 
-Build practical skills beyond classroom theory.
+- Financial statement analysis
+- Research automation
+- Model review
+- Document analysis
+- Reporting workflows
 
----
+The future finance professional will not just use AI tools.
 
-## Finance Professionals
-
-IB Analysts, associates, accountants, consultants, and FP&A professionals.
-
-Learn how AI can improve daily workflows.
-
----
-
-## Business Leaders
-
-Understand how AI is changing financial analysis, forecasting, and decision-making.
+They will design better workflows.
 
 ---
 
-# How To Use This Lab
+## 5. Case Studies
 
-Recommended learning sequence for beginners:
+### Learn through real businesses
 
-1. Learn AI fundamentals
-2. Build accounting foundations
-3. Understand financial modelling concepts
-4. Study the Breville case study
-5. Build professional financial models
-6. Apply AI workflows to finance problems
+Theory becomes powerful when applied.
+
+Explore company-based examples:
+
+### Breville Group Case Study
+
+Analyse:
+
+- Annual reports
+- Business performance
+- Financial statements
+- Modelling applications
 
 ---
 
-# The Future Finance Professional
+## Why AI Finance Lab?
 
-The next generation of finance professionals will combine:
+Because the future of finance will belong to professionals who combine:
 
+### Financial Expertise
 
-Financial Intelligence
+Understanding businesses, markets, accounting, and valuation.
 
-Analytical Thinking
++
 
-Technology Fluency
+### Technology Fluency
 
-AI Capability
+Knowing how AI can improve analysis and productivity.
 
++
 
-This AI Finance Lab exists to help build that future.
+### Professional Judgment
 
-Welcome to the lab.
+Making decisions that matter.
 
+---
+
+## Who Is This For?
+
+### 🎓 Students
+
+Build practical finance skills for careers in:
+
+- Investment Banking
+- Corporate Finance
+- Consulting
+- Investment Research
+
+---
+
+### 📈 Finance Professionals
+
+Learn how AI can enhance:
+
+- Analysis
+- Reporting
+- Modelling
+- Decision-making
+
+---
+
+### 🤖 AI Practitioners
+
+Understand real-world finance applications and problems.
+
+---
+
+## About AI Finance Lab
+
+AI Finance Lab was created by [Yudhajit Datta](https://www.linkedin.com/in/yudhajitdatta), a finance professional and educator focused on financial modelling, corporate finance, and the intersection of finance and artificial intelligence.
+
+The platform is built around a simple belief:
+
+> AI will not replace finance professionals. Finance professionals who understand AI will redefine the future of finance.
+
+---
+
+## Join the Community
+
+AI Finance Lab is designed as an open learning initiative.
+
+We welcome contributions from:
+
+- Finance professionals
+- AI practitioners
+- Educators
+- Students
+
+Help build practical, accessible finance education for the AI era.
+
+→ Contribute
+
+---
+
+## Start Learning
+
+Choose your path:
+
+📘 Beginner  
+→ Finance Foundations
+
+📊 Finance Professional  
+→ Financial Modelling
+
+🤖 Future Finance Professional  
+→ AI + Finance Applications

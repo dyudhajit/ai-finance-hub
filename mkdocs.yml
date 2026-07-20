@@ -1,4 +1,6 @@
 site_name: AI Finance Lab
+site_description: Building the next generation of AI-enabled finance professionals
+site_url: ""
 
 theme:
   name: material
@@ -6,25 +8,72 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
     - search.highlight
+    - search.suggest
     - content.code.copy
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
 
 nav:
 
   - Home: index.md
 
-  - AI Fundamentals:
-      - Overview: AI Fundamentals/learn AI Fundamentals.md
+  - Start Here:
+      - About AI Finance Lab: about.md
+      - Learning Roadmap: learning-roadmap.md
+      - Resources: resources.md
+      - Contribute: contribute.md
 
-  - Accounting Fundamentals:
-      - Overview: Accounting Fundamentals/learn Accounting fundamentals.md
+  - Finance Foundations:
+      - Accounting Fundamentals:
+          - Overview: Accounting Fundamentals/learn Accounting fundamentals.md
 
-  - Modelling Fundamentals:
-      - Overview: Modelling Fundamentals/learn Modelling fundamentals.md
+      - Finance Fundamentals:
+          - Overview: Finance Fundamentals/learn FSA fundamentals.md
 
-  - Resources: resources.md
+      - Modelling Fundamentals:
+          - Overview: Modelling Fundamentals/learn Modelling fundamentals.md
+
+  - AI Foundations:
+      - AI Fundamentals:
+          - Overview: AI Fundamentals/learn AI Fundamentals.md
+
+      # - Prompt Engineering: 1. learn prompting.md
+
+      # - AI Auditing: 2. learn auditing.md
+
+  # - Financial Modelling:
+
+  #     - Model Mechanics:
+  #         - Financial Modelling: FM/5. learn FM mechanics.md
+  #         - DCF: DCF/6. learn DCF mechanics.md
+  #         - LBO: LBO/7. learn LBO mechanics.md
+  #         - Merger: Merger/8. learn Merger mechanics.md
+
+  #     - Building Models:
+  #         - Financial Model: FM/9. learn FM modelling.md
+  #         - DCF Model: DCF/10. learn DCF modelling.md
+  #         - LBO Model: LBO/11. learn LBO modelling.md
+  #         - Merger Model: Merger/12. learn merger modelling.md
+
+  #     - Best Practices:
+  #         - Model Auditing: 2. learn auditing.md
+  #         - Model Balancing: 3. learn balancing.md
+  #         - Model Formatting: 4. learn formatting.md
+  #         - About the Models: about Models.md
+
+  # - Case Studies:
+
+  #     - Breville Group:
+  #         - About the Case Study: about BRG.md
+  #         - About the Annual Report: Case Study/Breville/about AR.md
+  #         - Annual Report (PDF): Case Study/Breville/Breville-Annual-Report-2025.pdf

@@ -18,7 +18,7 @@ AI Finance Lab was created to explore a simple question:
 
 ---
 
-# The Mission
+## The Mission
 
 AI Finance Lab aims to make practical AI-enabled finance education accessible to students, analysts, and professionals around the world.
 
@@ -32,11 +32,11 @@ to create the next generation of finance professionals.
 
 ---
 
-# Why This Platform Exists
+## Why This Platform Exists
 
 Today, there are two rapidly growing worlds:
 
-## Finance
+### Finance
 
 A discipline built on:
 - Accounting
@@ -45,7 +45,7 @@ A discipline built on:
 - Investment analysis
 - Business decision-making
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 A technology revolutionizing:
 - Data analysis
@@ -60,13 +60,13 @@ AI Finance Lab exists to bridge that gap.
 
 ---
 
-# Our Approach
+## Our Approach
 
 AI Finance Lab focuses on practical applications rather than theory alone.
 
 We explore:
 
-## Finance Fundamentals
+### Finance Fundamentals
 
 Building strong foundations in:
 
@@ -75,7 +75,7 @@ Building strong foundations in:
 - Valuation
 - Modelling
 
-## AI Applications in Finance
+### AI Applications in Finance
 
 Understanding how AI can support:
 
@@ -85,7 +85,7 @@ Understanding how AI can support:
 - Automation
 - Decision-making
 
-## Real-World Learning
+### Real-World Learning
 
 The focus is always:
 
@@ -93,9 +93,9 @@ The focus is always:
 
 ---
 
-# About the Creator
+## About the Creator
 
-AI Finance Lab was created by Yudhajit Datta, a finance professional and educator passionate about the intersection of finance, technology, and learning.
+AI Finance Lab was created by [Yudhajit Datta](https://www.linkedin.com/in/yudhajitdatta), a finance professional and educator passionate about the intersection of finance, technology, and learning.
 
 Yudhajit's experience spans:
 
@@ -113,7 +113,7 @@ But they do need to understand how technology can enhance their ability to analy
 
 ---
 
-# A Community Initiative
+## A Community Initiative
 
 AI Finance Lab is designed as an open learning initiative.
 
@@ -130,6 +130,6 @@ Together, we can make finance education more accessible, practical, and relevant
 
 ---
 
-# Vision
+## Vision
 
 A world where every finance professional has access to the knowledge and tools required to thrive in an AI-powered economy.

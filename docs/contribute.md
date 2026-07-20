@@ -12,9 +12,9 @@ This initiative welcomes contributions from people who want to help make practic
 
 ---
 
-# Who Can Contribute?
+## Who Can Contribute?
 
-## Finance Professionals
+### Finance Professionals
 
 Professionals working in areas such as:
 
@@ -36,7 +36,7 @@ can contribute:
 
 ---
 
-## AI Practitioners
+### AI Practitioners
 
 AI builders and technology professionals can contribute:
 
@@ -48,7 +48,7 @@ AI builders and technology professionals can contribute:
 
 ---
 
-## Educators and Trainers
+### Educators and Trainers
 
 Finance educators can contribute:
 
@@ -59,7 +59,7 @@ Finance educators can contribute:
 
 ---
 
-## Students and Early Career Professionals
+### Students and Early Career Professionals
 
 Students can contribute through:
 
@@ -70,9 +70,9 @@ Students can contribute through:
 
 ---
 
-# Areas Where We Are Looking for Contributions
+## Areas Where We Are Looking for Contributions
 
-## 📊 Finance Education
+### 📊 Finance Education
 
 Examples:
 
@@ -83,7 +83,7 @@ Examples:
 
 ---
 
-## 🤖 AI + Finance Applications
+### 🤖 AI + Finance Applications
 
 Examples:
 
@@ -94,7 +94,7 @@ Examples:
 
 ---
 
-## 🛠 Practical Projects
+### 🛠 Practical Projects
 
 Examples:
 
@@ -105,29 +105,29 @@ Examples:
 
 ---
 
-# Contribution Principles
+## Contribution Principles
 
 All contributions should follow these principles:
 
-## Practical
+### Practical
 
 Focus on real-world applications rather than theory alone.
 
-## Accurate
+### Accurate
 
 Content should maintain professional finance standards.
 
-## Accessible
+### Accessible
 
 Resources should help learners at different stages.
 
-## Educational
+### Educational
 
 The goal is knowledge sharing, not promotion.
 
 ---
 
-# Editorial Standards
+## Editorial Standards
 
 AI Finance Lab follows an editorial review process.
 
@@ -142,9 +142,9 @@ AI Finance Lab reserves the right to edit, improve, or organize contributions to
 
 ---
 
-# How to Contribute
+## How to Contribute
 
-Currently, contributions can be made through:
+Currently, contributions can be made by contacting [Yudhajit Datta](https://www.linkedin.com/in/yudhajitdatta). Suggested topics:
 
 1. Opening a discussion
 2. Sharing ideas and suggestions
@@ -155,20 +155,19 @@ Future versions will introduce structured contribution workflows.
 
 ---
 
-# Join the Community
+## Join the Community
 
 Interested in contributing?
 
 Connect with AI Finance Lab through:
 
-- GitHub discussions
 - LinkedIn community conversations
-- Direct collaboration opportunities
+- Contact [Yudhajit](https://www.linkedin.com/in/yudhajitdatta) for Direct collaboration opportunities
 
-Together, we can build a practical learning ecosystem for the next generation of finance professionals.
+Together, let's build a practical learning ecosystem for the next generation of finance professionals.
 
 ---
 
-# Our Vision
+## Our Vision
 
-A future where every finance aspirant has access to the knowledge, tools, and community needed to thrive in an AI-powered world.
+A future where every finance professional has access to the knowledge, tools, and community needed to thrive in an AI-powered world.

@@ -37,6 +37,10 @@ Visit the dashboard:
 
 [AI Finance Dashboard](https://ai-finance-dashboard-6csmsdbbdm5ygiouxtr4vc.streamlit.app/)
 
+Access the source code:
+
+[Github - AI Finance Dashboard](https://github.com/dyudhajit/ai-finance-dashboard)
+
 ---
 
 ## Learning Journey

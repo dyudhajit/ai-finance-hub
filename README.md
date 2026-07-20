@@ -180,7 +180,7 @@ Interested in collaborating, contributing, or discussing AI in finance?
 
 Connect with me on LinkedIn:
 
-[LinkedIn Profile]
+www.linkedin.com/in/yudhajitdatta
 
 ---
 

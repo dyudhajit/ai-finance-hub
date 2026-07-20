@@ -1,1 +1,1 @@
-# ai-finance-hub
+# ai-finance-lab

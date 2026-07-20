@@ -72,7 +72,7 @@ Students can contribute through:
 
 ## Areas Where We Are Looking for Contributions
 
-### 📊 Finance Education
+### Finance Education
 
 Examples:
 
@@ -83,7 +83,7 @@ Examples:
 
 ---
 
-### 🤖 AI + Finance Applications
+### AI + Finance Applications
 
 Examples:
 

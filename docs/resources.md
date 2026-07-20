@@ -12,7 +12,7 @@ The focus is always on practical learning rather than collecting the largest lis
 
 ---
 
-# Learning Roadmap
+## Learning Roadmap
 
 If you are new to finance, we recommend following this order:
 
@@ -26,21 +26,21 @@ If you are new to finance, we recommend following this order:
 
 ---
 
-# Essential Finance Books
+## Essential Finance Books
 
 These books have shaped generations of finance professionals.
 
-## Accounting
+### Accounting
 
-### Financial Accounting
+#### Financial Accounting
 
 - *Financial Accounting* – Libby, Libby & Hodge
 
 ---
 
-## Corporate Finance
+### Corporate Finance
 
-### Principles of Corporate Finance
+#### Principles of Corporate Finance
 
 - Richard Brealey
 - Stewart Myers
@@ -50,9 +50,9 @@ One of the most respected corporate finance textbooks.
 
 ---
 
-## Valuation
+### Valuation
 
-### Investment Valuation
+#### Investment Valuation
 
 Author:
 
@@ -66,9 +66,9 @@ Recommended for:
 
 ---
 
-## Financial Modelling
+### Financial Modelling
 
-### Financial Modeling
+#### Financial Modeling
 
 Author:
 
@@ -78,7 +78,7 @@ A classic resource for understanding model construction.
 
 ---
 
-# AI Learning Resources
+## AI Learning Resources
 
 AI evolves rapidly.
 
@@ -94,7 +94,7 @@ Topics worth exploring include:
 
 ---
 
-# Excel Resources
+## Excel Resources
 
 Excel remains one of the most important tools in finance.
 
@@ -110,7 +110,7 @@ Recommended areas to master:
 
 ---
 
-# Python for Finance
+## Python for Finance
 
 Python is becoming increasingly valuable for finance professionals.
 
@@ -131,7 +131,7 @@ Popular libraries include:
 
 ---
 
-# Annual Reports
+## Annual Reports
 
 Reading annual reports is one of the fastest ways to improve business understanding.
 
@@ -156,7 +156,7 @@ Read one annual report every month and answer:
 
 ---
 
-# AI Tools
+## AI Tools
 
 AI tools change rapidly.
 
@@ -164,7 +164,7 @@ Rather than chasing every new application, understand what problems each categor
 
 Categories include:
 
-## General AI Assistants
+### General AI Assistants
 
 Used for:
 
@@ -175,7 +175,7 @@ Used for:
 
 ---
 
-## Coding Assistants
+### Coding Assistants
 
 Useful for:
 
@@ -186,7 +186,7 @@ Useful for:
 
 ---
 
-## Productivity Tools
+### Productivity Tools
 
 Examples include:
 
@@ -196,7 +196,7 @@ Examples include:
 
 ---
 
-# Practice Projects
+## Practice Projects
 
 The best way to learn finance is by building.
 
@@ -211,7 +211,7 @@ Ideas include:
 
 ---
 
-# Communities
+## Communities
 
 Learning accelerates when shared with others.
 
@@ -224,7 +224,7 @@ Consider engaging with:
 
 ---
 
-# AI Finance Lab
+## AI Finance Lab
 
 All resources on this page are intended to complement—not replace—the structured learning content available throughout AI Finance Lab.
 

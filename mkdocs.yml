@@ -1,0 +1,30 @@
+site_name: AI Finance Lab
+
+theme:
+  name: material
+
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+
+  - Home: index.md
+
+  - AI Fundamentals:
+      - Overview: AI Fundamentals/learn AI Fundamentals.md
+
+  - Accounting Fundamentals:
+      - Overview: Accounting Fundamentals/learn Accounting fundamentals.md
+
+  - Modelling Fundamentals:
+      - Overview: Modelling Fundamentals/learn Modelling fundamentals.md
+
+  - Resources: resources.md

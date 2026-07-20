@@ -1,6 +1,6 @@
 # AI Finance Lab
 
-## Building the Next Generation of AI-Native Finance Professionals
+## Training the Next Generation of AI-Native Finance Professionals
 
 Finance is entering a new era.
 

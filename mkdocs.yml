@@ -44,6 +44,8 @@ nav:
 
       - Modelling Fundamentals:
           - Overview: Modelling Fundamentals/learn Modelling fundamentals.md
+          - Modelling Mechanics: Modelling Fundamentals/learn Modelling mechanics.md
+          - DCF Mechanics: Modelling Fundamentals/learn DCF mechanics.md
 
   - AI Foundations:
       - AI Fundamentals:

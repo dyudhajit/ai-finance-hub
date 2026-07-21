@@ -1,4 +1,4 @@
-# 5. Learn Financial Modelling Mechanics
+# Financial Modelling Mechanics
 
 ## Overview
 

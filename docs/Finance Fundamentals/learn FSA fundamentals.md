@@ -24,11 +24,11 @@ It is understanding the business story behind those numbers.
 
 ---
 
-# The Three Financial Statements
+## The Three Financial Statements
 
-## 1. Income Statement
+### 1. Income Statement
 
-### "Is this business profitable?"
+#### "Is this business profitable?"
 
 The Income Statement measures company performance over a period of time.
 
@@ -42,7 +42,7 @@ It shows how much money the company generated and how much it spent.
 
 ---
 
-## Basic Structure
+### Basic Structure
 
 
 Revenue
@@ -58,9 +58,9 @@ Revenue
 
 ---
 
-# Key Income Statement Concepts
+## Key Income Statement Concepts
 
-## Revenue
+### Revenue
 
 Revenue represents money earned from selling products or services.
 
@@ -72,7 +72,7 @@ Examples:
 
 ---
 
-## Cost of Goods Sold (COGS)
+### Cost of Goods Sold (COGS)
 
 Costs directly associated with producing goods or delivering services.
 
@@ -87,7 +87,7 @@ Retail company:
 
 ---
 
-## Gross Profit
+### Gross Profit
 
 Gross Profit measures profitability after direct costs.
 
@@ -107,7 +107,7 @@ A higher gross margin often indicates stronger pricing power or operational effi
 
 ---
 
-## Operating Expenses
+### Operating Expenses
 
 Costs required to run the business.
 
@@ -121,7 +121,7 @@ Examples:
 
 ---
 
-## EBITDA
+### EBITDA
 
 EBITDA stands for:
 
@@ -137,9 +137,9 @@ EBITDA = Operating Income + Depreciation + Amortization
 
 ---
 
-# 2. Balance Sheet
+## 2. Balance Sheet
 
-## "What does the company own and owe?"
+### "What does the company own and owe?"
 
 Unlike the Income Statement, the Balance Sheet represents a point in time.
 
@@ -157,13 +157,13 @@ This equation must always balance.
 
 ---
 
-# Assets
+## Assets
 
 Assets are resources controlled by the company.
 
 Examples:
 
-## Current Assets
+### Current Assets
 
 Expected to convert into cash within one year.
 
@@ -173,7 +173,7 @@ Examples:
 - Accounts Receivable
 - Inventory
 
-## Non-Current Assets
+### Non-Current Assets
 
 Long-term resources.
 
@@ -185,13 +185,13 @@ Examples:
 
 ---
 
-# Liabilities
+## Liabilities
 
 Liabilities represent obligations.
 
 Examples:
 
-## Current Liabilities
+### Current Liabilities
 
 Due within one year.
 
@@ -200,7 +200,7 @@ Examples:
 - Accounts Payable
 - Short-term debt
 
-## Long-Term Liabilities
+### Long-Term Liabilities
 
 Due beyond one year.
 
@@ -211,7 +211,7 @@ Examples:
 
 ---
 
-# Equity
+## Equity
 
 Equity represents the owners' claim on the company.
 
@@ -228,9 +228,9 @@ Equity = Assets - Liabilities
 
 ---
 
-# 3. Cash Flow Statement
+## 3. Cash Flow Statement
 
-## "Profit is an opinion. Cash is reality."
+### "Profit is an opinion. Cash is reality."
 
 A company can report profits but still run out of cash.
 
@@ -240,7 +240,7 @@ It has three sections:
 
 ---
 
-# Operating Cash Flow
+## Operating Cash Flow
 
 Cash generated from normal business operations.
 
@@ -252,7 +252,7 @@ Examples:
 
 ---
 
-# Investing Cash Flow
+## Investing Cash Flow
 
 Cash related to long-term investments.
 
@@ -264,7 +264,7 @@ Examples:
 
 ---
 
-# Financing Cash Flow
+## Financing Cash Flow
 
 Cash related to funding activities.
 
@@ -276,7 +276,7 @@ Examples:
 
 ---
 
-# How The Three Statements Connect
+## How The Three Statements Connect
 
 Understanding connections between statements is one of the most important skills in finance.
 
@@ -284,19 +284,19 @@ Example:
 
 A company sells $100,000 worth of products on credit.
 
-## Income Statement
+### Income Statement
 
 Revenue increases by $100,000.
 
 ↓
 
-## Balance Sheet
+### Balance Sheet
 
 Accounts Receivable increases by $100,000.
 
 ↓
 
-## Cash Flow Statement
+### Cash Flow Statement
 
 No cash received yet.
 
@@ -304,13 +304,13 @@ No cash received yet.
 
 Later, the customer pays.
 
-## Balance Sheet
+### Balance Sheet
 
 Accounts Receivable decreases.
 
 ↓
 
-## Cash Flow Statement
+### Cash Flow Statement
 
 Operating cash flow increases.
 
@@ -320,42 +320,42 @@ This connection is the foundation of financial modelling.
 
 ---
 
-# Financial Statements Through a Business Lens
+## Financial Statements Through a Business Lens
 
 Numbers alone do not explain a company.
 
 A finance professional asks:
 
-## Revenue
+### Revenue
 
 - Why is revenue growing?
 - Is growth sustainable?
 - Are customers increasing?
 
-## Margins
+### Margins
 
 - Is profitability improving?
 - Are costs under control?
 
-## Assets
+### Assets
 
 - Is capital being used efficiently?
 
-## Cash Flow
+### Cash Flow
 
 - Can the company fund itself?
 
 ---
 
-# Using AI to Analyse Financial Statements
+## Using AI to Analyse Financial Statements
 
 AI can help finance professionals:
 
-## Summarisation
+### Summarisation
 
 Convert hundreds of pages of annual reports into concise insights.
 
-## Trend Analysis
+### Trend Analysis
 
 Identify:
 
@@ -363,7 +363,7 @@ Identify:
 - Margin changes
 - Expense trends
 
-## Comparison
+### Comparison
 
 Compare companies across:
 
@@ -371,13 +371,13 @@ Compare companies across:
 - Profitability
 - Capital efficiency
 
-## Question Answering
+### Question Answering
 
 Allow analysts to interact with financial documents.
 
 ---
 
-# But AI Cannot Replace Financial Judgment
+## But AI Cannot Replace Financial Judgment
 
 AI can identify patterns.
 
@@ -400,7 +400,7 @@ AI Capability
 
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 After completing this module, you should understand:
 
@@ -412,7 +412,7 @@ After completing this module, you should understand:
 
 ---
 
-# Next Steps
+## Next Steps
 
 Continue your learning journey:
 

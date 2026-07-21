@@ -73,7 +73,8 @@ nav:
 
   # - Case Studies:
 
-  #     - Breville Group:
-  #         - About the Case Study: about BRG.md
+      - Breville Group:
+          - About the Case Study: about BRG.md
   #         - About the Annual Report: Case Study/Breville/about AR.md
-  #         - Annual Report (PDF): Case Study/Breville/Breville-Annual-Report-2025.pdf
+          - Annual Report (PDF): Case Study/Breville/Breville-Annual-Report-2025.pdf
+          - Financials (XLSX): Case Study/Breville/BRG.AX Financials.xlsx

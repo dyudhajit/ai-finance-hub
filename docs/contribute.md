@@ -94,7 +94,7 @@ Examples:
 
 ---
 
-### 🛠 Practical Projects
+### Practical Projects
 
 Examples:
 

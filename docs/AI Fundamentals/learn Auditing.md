@@ -1,4 +1,4 @@
-# AI Auditing
+# AI Model Auditing
 
 ## Building Trust Through Verification
 

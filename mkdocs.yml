@@ -51,6 +51,7 @@ nav:
       - AI Fundamentals:
           - Overview: AI Fundamentals/learn AI Fundamentals.md
           - Prompt Engineering : AI Fundamentals/learn Prompt Engineering.md
+          - AI Model Auditing : AI Fundamentals/learn Auditing.md
 
   # - Financial Modelling:
 

@@ -4,8 +4,8 @@ site_url: ""
 
 theme:
   name: material
-  logo: assets/4MATR logo.png
-  favicon: assets/4MATR logo.png
+  logo: assets/4MATR Logo.png
+  favicon: assets/4MATR Logo.png
 
   features:
     - navigation.sections

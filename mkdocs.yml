@@ -48,10 +48,7 @@ nav:
   - AI Foundations:
       - AI Fundamentals:
           - Overview: AI Fundamentals/learn AI Fundamentals.md
-
-      # - Prompt Engineering: 1. learn prompting.md
-
-      # - AI Auditing: 2. learn auditing.md
+          - Prompt Engineering : AI Fundamentals/learn Prompt Engineering.md
 
   # - Financial Modelling:
 

@@ -44,22 +44,25 @@ nav:
 
       - Modelling Fundamentals:
           - Overview: Modelling Fundamentals/learn Modelling fundamentals.md
-          - Modelling Mechanics: Modelling Fundamentals/learn Modelling mechanics.md
+          - FM Mechanics: Modelling Fundamentals/learn FM mechanics.md
           - DCF Mechanics: Modelling Fundamentals/learn DCF mechanics.md
+          - LBO Mechanics: Modelling Fundamentals/learn LBO mechanics.md
+          - Merger Mechanics: Modelling Fundamentals/learn Merger mechanics.md
 
   - AI Foundations:
       - AI Fundamentals:
           - Overview: AI Fundamentals/learn AI Fundamentals.md
           - Prompt Engineering : AI Fundamentals/learn Prompt Engineering.md
-          - AI Model Auditing : AI Fundamentals/learn Auditing.md
+          - AI Model Auditing : AI Fundamentals/learn AI Model Auditing.md
+          - AI-Assisted Financial Modelling : AI Fundamentals/learn AI Assisted Modelling.md
 
   # - Financial Modelling:
 
-  #     - Model Mechanics:
-  #         - Financial Modelling: FM/5. learn FM mechanics.md
-  #         - DCF: DCF/6. learn DCF mechanics.md
-  #         - LBO: LBO/7. learn LBO mechanics.md
-  #         - Merger: Merger/8. learn Merger mechanics.md
+  #     - Modelling :
+  #         - Financial Modelling: learn FM modelling.md
+  #         - DCF: learn DCF mechanics.md
+  #         - LBO: learn LBO mechanics.md
+          # - Merger Modelling: Modelling Fundamentals/learn Merger mechanics.md
 
   #     - Building Models:
   #         - Financial Model: FM/9. learn FM modelling.md

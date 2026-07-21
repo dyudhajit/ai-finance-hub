@@ -325,6 +325,27 @@ It is embedded into every stage of the finance workflow.
 
 ---
 
+## Try It Yourself — Breville Case Study
+
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+
+Using your preferred AI assistant, write prompts that answer the following questions:
+
+- What does Breville do?
+- How does the company generate revenue?
+- What are the company's primary brands and products?
+- Which geographic markets contribute most to revenue?
+- What competitive advantages does management highlight?
+- What risks are discussed in the report?
+
+Compare the AI-generated responses with the annual report and refine your prompts until the answers are accurate, well-structured, and supported by evidence.
+
+> **Goal:** Learn how better prompts produce better financial analysis.
+
+---
+
 ## What's Next?
 
-Continue to **2. Learn Auditing**, where you will learn how to critically evaluate AI-generated outputs, identify errors, and validate results before relying on them in professional finance work.
+Continue to **Learn Auditing**, where you will learn how to critically evaluate AI-generated outputs, identify errors, and validate results before relying on them in professional finance work.
+
+---

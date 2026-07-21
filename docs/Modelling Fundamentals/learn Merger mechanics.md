@@ -461,7 +461,7 @@ Those decisions require judgement.
 
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 After completing this module, you should understand:
 
@@ -474,11 +474,31 @@ After completing this module, you should understand:
 
 ---
 
-# Next Steps
+## Try It Yourself — Breville Case Study
+
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+
+Imagine De'Longhi, another global consumer products company, is considering acquiring Breville.
+
+Using the Breville annual report, identify:
+
+- Strategic reasons for an acquisition.
+- Potential revenue synergies.
+- Potential cost synergies.
+- Integration challenges.
+- Risks that could prevent value creation.
+
+Prepare a memo discussing whether such an acquisition would make strategic sense.
+
+> **Goal:** Learn to evaluate acquisitions from both a strategic and financial perspective.
+
+---
+
+## Next Steps
 
 After understanding merger mechanics, continue to:
 
-## Merger Modelling
+### Merger Modelling (Coming Soon)
 
 You will learn how to build a complete merger model including:
 

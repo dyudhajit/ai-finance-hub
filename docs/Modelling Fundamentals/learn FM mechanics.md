@@ -381,6 +381,22 @@ This mirrors the workflow used by finance professionals in investment banking, p
 - Good models are transparent, flexible and easy to audit.
 - AI enhances financial modelling but does not replace professional judgement.
 
+## Try It Yourself — Breville Case Study
+
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+
+Before creating the financial model, study the annual report and answer:
+
+- How does Breville make money?
+- What are its key revenue drivers?
+- Which costs appear most significant?
+- What factors could influence future growth?
+- Which financial metrics deserve the most attention?
+
+Only after understanding the business should you explore the mechanics of the completed three-statement model.
+
+> **Goal:** Learn to model the business—not just the spreadsheet.
+
 ---
 
 ## What's Next?

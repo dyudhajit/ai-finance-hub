@@ -342,6 +342,26 @@ After completing this module, you should understand:
 
 ---
 
+## Try It Yourself — Breville Case Study
+
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+
+Using your preferred AI assistant, generate an AI summary of the Breville FY2025 Annual Report.
+
+Then audit the output by checking:
+
+- Are all financial figures correct?
+- Are revenue growth rates accurate?
+- Has AI invented information that is not in the report?
+- Are management comments represented fairly?
+- Are important risks omitted?
+
+Record every error you identify.
+
+> **Goal:** Develop the habit of validating AI outputs before relying on them in professional finance work.
+
+---
+
 ## Next Steps
 
 You are now ready to apply AI to practical finance workflows:

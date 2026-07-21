@@ -408,6 +408,30 @@ It is about estimating what a business is worth based on reasonable assumptions 
 
 ---
 
+## Try It Yourself — Breville Case Study
+
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+
+Using the Breville FY2025 Annual Report, identify the assumptions you would need before performing a DCF valuation.
+
+Consider:
+
+- Revenue growth
+- Operating margins
+- Capital expenditure
+- Working capital
+- Tax rates
+- Long-term growth prospects
+- Business risks that may affect the discount rate
+
+Do not calculate the valuation yet.
+
+Focus on understanding which business drivers determine value.
+
+> **Goal:** Appreciate that a DCF begins with understanding the business, not entering formulas into Excel.
+
+---
+
 ## What's Next?
 
 Continue to **Learn LBO Mechanics**, where you will explore how private equity investors evaluate acquisitions using leverage, debt repayment, and investor returns.

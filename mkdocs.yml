@@ -4,6 +4,8 @@ site_url: ""
 
 theme:
   name: material
+  logo: assets/4MATR logo.png
+  favicon: assets/4MATR logo.png
 
   features:
     - navigation.sections
@@ -71,10 +73,10 @@ nav:
   #         - Model Formatting: 4. learn formatting.md
   #         - About the Models: about Models.md
 
-  # - Case Studies:
+  - Case Studies:
 
       - Breville Group:
-          - About the Case Study: about BRG.md
+          - About the Case Study: Case Study/Breville/about BRG.md
   #         - About the Annual Report: Case Study/Breville/about AR.md
-          - Annual Report (PDF): Case Study/Breville/Breville-Annual-Report-2025.pdf
-          - Financials (XLSX): Case Study/Breville/BRG.AX Financials.xlsx
+          - Annual Report (PDF): Case Study/Breville/Annual Report/Breville-Annual-Report-2025.pdf
+          - YahooFinance Financials Export (XLSX): Case Study/Breville/Data/BRG.AX Financials.xlsx

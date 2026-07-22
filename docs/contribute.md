@@ -155,14 +155,14 @@ Future versions will introduce structured contribution workflows.
 
 ---
 
-## Join the Community
+## Join the 4MATR Community
 
 Interested in contributing?
 
 Connect with AI Finance Lab through:
 
-- LinkedIn community conversations
-- Contact [Yudhajit](https://www.linkedin.com/in/yudhajitdatta) for Direct collaboration opportunities
+- [4MATR LinkedIn](https://www.linkedin.com/company/142918188/admin/dashboard/) community conversations
+- Contact [Yudhajit](https://www.linkedin.com/in/yudhajitdatta) for direct collaboration opportunities
 
 Together, let's build a practical learning ecosystem for the next generation of finance professionals.
 

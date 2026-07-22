@@ -115,7 +115,7 @@ But they do need to understand how technology can enhance their ability to analy
 
 ## A Community Initiative
 
-AI Finance Lab is designed as an open learning initiative.
+AI Finance Lab is designed as an open learning initiative by the [4MATR Academy](https://www.linkedin.com/company/142918188/admin/dashboard/).
 
 The future of finance will be built collaboratively.
 

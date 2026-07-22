@@ -188,9 +188,9 @@ to create accessible learning resources for the next generation of finance profe
 
 ---
 
-## Join the Community
+## Join the 4MATR Community
 
-AI Finance Lab is designed as an open learning initiative.
+AI Finance Lab is designed as an open learning initiative by the [4MATR Academy](https://www.linkedin.com/company/142918188/admin/dashboard/).
 
 Future contributions will include:
 

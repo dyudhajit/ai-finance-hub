@@ -344,7 +344,7 @@ After completing this module, you should understand:
 
 ## Try It Yourself — Breville Case Study
 
-Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Studies > Breville Group** section.
 
 Using your preferred AI assistant, generate an AI summary of the Breville FY2025 Annual Report.
 
@@ -371,11 +371,3 @@ You are now ready to apply AI to practical finance workflows:
 - Financial modelling
 - Valuation
 - Investment research
-
-The future finance professional will not ask:
-
-> "Can AI do this for me?"
-
-They will ask:
-
-> "How can I use AI effectively while maintaining professional standards?"

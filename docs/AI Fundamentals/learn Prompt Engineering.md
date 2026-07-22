@@ -327,7 +327,7 @@ It is embedded into every stage of the finance workflow.
 
 ## Try It Yourself — Breville Case Study
 
-Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Studies > Breville Group** section.
 
 Using your preferred AI assistant, write prompts that answer the following questions:
 
@@ -344,7 +344,7 @@ Compare the AI-generated responses with the annual report and refine your prompt
 
 ---
 
-## What's Next?
+## Next Steps
 
 Continue to **Learn Auditing**, where you will learn how to critically evaluate AI-generated outputs, identify errors, and validate results before relying on them in professional finance work.
 

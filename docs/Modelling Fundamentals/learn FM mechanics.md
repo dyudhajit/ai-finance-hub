@@ -383,7 +383,7 @@ This mirrors the workflow used by finance professionals in investment banking, p
 
 ## Try It Yourself — Breville Case Study
 
-Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Studies > Breville Group** section.
 
 Before creating the financial model, study the annual report and answer:
 
@@ -399,6 +399,6 @@ Only after understanding the business should you explore the mechanics of the co
 
 ---
 
-## What's Next?
+## Next Steps
 
 Continue to **Learn DCF Mechanics**, where you will explore how future cash flows are converted into an estimate of enterprise value using the Discounted Cash Flow (DCF) valuation methodology.

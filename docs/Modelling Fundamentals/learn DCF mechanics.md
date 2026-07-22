@@ -410,7 +410,7 @@ It is about estimating what a business is worth based on reasonable assumptions 
 
 ## Try It Yourself — Breville Case Study
 
-Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Studies > Breville Group** section.
 
 Using the Breville FY2025 Annual Report, identify the assumptions you would need before performing a DCF valuation.
 

@@ -476,7 +476,7 @@ After completing this module, you should understand:
 
 ## Try It Yourself — Breville Case Study
 
-Open the **Breville FY2025 Annual Report** included in this repository under the **Case Study** section.
+Open the **Breville FY2025 Annual Report** included in this repository under the **Case Studies > Breville Group** section.
 
 Imagine De'Longhi, another global consumer products company, is considering acquiring Breville.
 

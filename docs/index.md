@@ -41,6 +41,10 @@ Access the source code:
 
 [Github - AI Finance Dashboard](https://github.com/dyudhajit/ai-finance-dashboard)
 
+Watch the demo:
+
+[4MATR - AI Finance Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7485694391035260928)
+
 ---
 
 ## Learning Journey
